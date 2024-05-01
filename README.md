@@ -1,4 +1,4 @@
-# Legacy V.3.0 (Remake Last Version)
+# Legacy V.3.0 
 
 <p align="center">
       <img src="https://gcdnb.pbrd.co/images/0KrsdPvPTTxP.jpg" width="99%" style="margin-left: auto;margin-right: auto;display: block;">
